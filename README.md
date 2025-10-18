@@ -6,12 +6,12 @@
 <p align="center">
     <picture>
         <source srcset="./image/banner.png">
-        <img alt="Banner" src="./image/banner.png" width="100%" height="50%"/>
+        <img alt="Banner" src="./image/banner.png" width="100%" height="50%" style="border-radius: 20px;" />
     </picture>
 </p>
 
 <p align="center">
-  <img src="./image/fuyuneko_22.png" alt="ツツ" width="100" height="100">
+  <img src="./image/fuyuneko_22.png" alt="ツツ" width="160" height="160">
 </p>
 
 <!-- SNS/Contact Badges -->
