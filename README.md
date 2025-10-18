@@ -40,9 +40,9 @@
 
 -   My hobbies are programming and listening to music!
 -   I mainly use JavaScript, HTML, and CSS for programming.
--   I often listen to free background music.
--   I also create data packs and mods for Minecraft: Java Edition.
--   I absolutely love cats. 🐈‍⬛
+-   I often listen to free background music!
+-   I also create data packs and mods for Minecraft: Java Edition!
+-   I absolutely love cats!!! 🐈‍⬛
 
 ---
 
