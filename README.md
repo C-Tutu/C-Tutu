@@ -16,10 +16,10 @@
 
 <!-- SNS/Contact Badges -->
 <p align="center">
-    <a href="https://twitter.com/yourname">
+    <a href="https://x.com/Fuyuneko_22">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
     </a>
-    <a href="mailto:yourmail@example.com">
+    <a href="mailto:c.tutu0202@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
     </a>
 </p>
@@ -75,7 +75,7 @@
 ## Contact
 
 <p align="center">
-    <a href="https://twitter.com/Fuyuneko_22">
+    <a href="https://x.com/Fuyuneko_22">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
     </a>
     <a href="mailto:c.tutu0202@gmail.com">
