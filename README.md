@@ -6,7 +6,7 @@
 <p align="center">
     <picture>
         <source srcset="./image/banner.png">
-        <img alt="Banner" src="./image/banner.png" width="100%" />
+        <img alt="Banner" src="./image/banner.png" width="100%" height="400"/>
     </picture>
 </p>
 
