@@ -60,7 +60,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=C-Tutu&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=C-Tutu&theme=github-dark&date_format=%5BY.%5Dn.j" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=C-Tutu&theme=github-dark&date_format=%5BY.%5Dn.j" />
 </p>
 
 ---
