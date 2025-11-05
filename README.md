@@ -16,7 +16,7 @@
 
 <!-- SNS/Contact Badges -->
 <p align="center">
-    <a href="https://x.com/Fuyuneko_22">
+    <a href="https://x.com/Fuyuneko22">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
     </a>
     <a href="mailto:c.tutu0202@gmail.com">
@@ -75,7 +75,7 @@
 ## Contact
 
 <p align="center">
-    <a href="https://x.com/Fuyuneko_22">
+    <a href="https://x.com/Fuyuneko22">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
     </a>
     <a href="mailto:c.tutu0202@gmail.com">
